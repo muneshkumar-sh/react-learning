@@ -11,12 +11,6 @@ This repository contains my complete React learning process, organized topic by 
 - Projects
 - Advanced Concepts
 
-## 💡 Projects
-
-- Todo App
-- Counter App
-- Portfolio Website
-
 ## 🎯 Goal
 
 To master React by building real-world projects and understanding core concepts deeply.
